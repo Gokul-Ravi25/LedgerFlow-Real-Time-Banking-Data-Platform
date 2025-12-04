@@ -1,5 +1,3 @@
----
-
 # **LedgerFlow — Real-Time Banking Data Platform**
 
 *LedgerFlow is an end-to-end real-time financial data pipeline that captures banking transactions using CDC, streams them through Kafka, processes them in Spark Structured Streaming, and stores them in Delta Lake for analytics.*
