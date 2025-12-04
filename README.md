@@ -1,8 +1,3 @@
-# LedgerFlow-Real-Time-Banking-Data-Platform
-Here is an improved README.md **with a clean, professional Index/Table of Contents added at the top** — exactly like modern open-source projects.
-
-Everything is neatly linked and ready to copy-paste into your GitHub.
-
 ---
 
 # **LedgerFlow — Real-Time Banking Data Platform**
